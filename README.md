@@ -1,13 +1,13 @@
-<h1 align="left">Hi, I'm Shahid 👋</h1>
+<h1 align="left">Hi, I'm Shahid</h1>
 
 <p align="left">
-  🚀 Full-stack TypeScript Developer<br/>
-  🔧 Tech Lead @ <a href="https://book2gather.com" target="_blank"><strong>Book2Gather</strong></a><br/>
-  🧠 Focused on scalable architecture, clean UI, and efficient systems
+   Full-stack TypeScript Developer<br/>
+   Tech Lead @ <a href="https://book2gather.com" target="_blank"><strong>Book2Gather</strong></a><br/>
+   Focused on scalable architecture, clean UI, and efficient systems
 </p>
 
 
-### 🔥 Highlights
+### Highlights
 
 - 💼 Delivered 50+ custom websites & admin panels for global clients  
 - 📱 Built 15+ cross-platform mobile apps using Ionic & React Native  
@@ -16,7 +16,7 @@
 - 💡 TypeScript-first developer focused on performance, UX, and maintainability  
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
